@@ -42,7 +42,7 @@ print "$cyan   :~~~~~//~~;                               \n";
 print "$cyan    `.  // .'   $white https://github.com/N1ght420 \n";
 print "$cyan    `-------'                                \n\n";
 
-$awal = array("","9813","9812","9811","9853","9852");
+$awal = array("","9178","9194","9831","9153","9822");
 echo "$yellow ??$white Total : ";
 $total = trim(fgets(STDIN));
 
